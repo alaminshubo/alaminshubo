@@ -8,7 +8,6 @@
 
 <br/>
 
-- 🔭 I’m currently working on personal project. 
 - 🌱 I’m currently learning Python. 
 - 👯 I’m looking to collaborate on github. 
 - 📫 How to reach me **almd9562@gmail.com**
@@ -16,7 +15,7 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
   
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='60'>](https://github.com/https://github.com/Rakib-Hasan-110)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='60'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rakib-hasan110//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='60'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100084696995566)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='60'>](https://www.instagram.com/https://www.instagram.com/rakib_110_hasan_official//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='60'>](https://twitter.com/https://x.com/110Rakib_Hasan)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='60'>](https://github.com/https://github.com/alaminshubo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='60'>](https://www.linkedin.com/in/md-al-amin-46bab6315/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='60'>](https://www.facebook.com/mdalamin3773)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='60'>](https://www.instagram.com/alaminshubo37/)  
 
 </div>
 
