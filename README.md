@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Al Amin!;" />
 </h1>
 
-![]([https://media.licdn.com/dms/image/v2/D5616AQHngVBiOtsCcg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726059825028?e=1731542400&v=beta&t=3mEYoUoOm9rLbuI89KFPgs-_VJTXfODrfLGsa3Jo0F4](https://media.licdn.com/dms/image/v2/D5616AQGXULOJXlYr-w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719326395791?e=1736985600&v=beta&t=_7hYYXvE2jS_hRoRYqSsHWHOhaXzuac7f7fYG6nCFjg)
+(https://media.licdn.com/dms/image/v2/D5616AQGXULOJXlYr-w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719326395791?e=1736985600&v=beta&t=_7hYYXvE2jS_hRoRYqSsHWHOhaXzuac7f7fYG6nCFjg)
 ![image](https://github.com/user-attachments/assets/a02709cf-d9f8-4f37-bf1c-ac6dafcd54ab)
 
 <h3 align="center">CSE student passionate about coding, web development & problem-solving. Learning JavaScript, Python.Building projects. Always curious learning & exploring!</h3>
