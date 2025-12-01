@@ -2,8 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Al+Amin!;" />
 </h1>
 
-![image](<img width="1584" height="396" alt="alaminshubo" src="https://github.com/user-attachments/assets/999d7c53-1f8c-42aa-8baf-edea71aa9bad" />
-)
+![image](<"https://github.com/user-attachments/assets/999d7c53-1f8c-42aa-8baf-edea71aa9bad" />)
 
 <h3 align="center">CSE student passionate about coding, web development & problem-solving. Learning JavaScript, Python.Building projects. Always curious learning & exploring!</h3>
 
