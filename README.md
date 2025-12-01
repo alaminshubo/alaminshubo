@@ -2,7 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Al+Amin!;" />
 </h1>
 
-![image](https://github.com/user-attachments/assets/a02709cf-d9f8-4f37-bf1c-ac6dafcd54ab)
+![image](<img width="1584" height="396" alt="Al_Amin" src="https://github.com/user-attachments/assets/1f9ebe3f-1da2-45e4-b319-462cd4670cfb" />
+)
 
 <h3 align="center">CSE student passionate about coding, web development & problem-solving. Learning JavaScript, Python.Building projects. Always curious learning & exploring!</h3>
 
